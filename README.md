@@ -1,2 +1,2 @@
 # ML-Repo
-This is a repo
+This is an initial repo of the project
